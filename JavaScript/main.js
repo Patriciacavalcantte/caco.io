@@ -18,6 +18,3 @@ document.getElementsByClassName("circulo")[0].style.background = "tomato";
 }
 
 
-}
-
-
