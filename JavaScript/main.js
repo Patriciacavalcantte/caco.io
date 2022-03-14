@@ -12,7 +12,11 @@ typeWriter(titulo);
 
 window.onclick = myFunction;
   function myFunction() {
-document.getElementsByClassName("texto")[0].innerHTML = "Sorte de hoje: você vai votar 13 em outubro! ";
+document.getElementsByClassName("texto")[0].innerHTML = "Você vai votar  13  em outubro! ";
+document.getElementsByClassName("circulo")[0].style.background = "tomato";
+
+}
+
 
 }
 
